@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Brain timer</string>
+    <string name="result">result</string>
+    <string name="_20_s">20 s</string>
+    <string name="_0_20">0/20</string>
+    <string name="asadadfsfa">asadadfsfa</string>
+    <string name="go">Go!</string>
+    <string name="play_again">play again</string>
+</resources>
